@@ -1,4 +1,4 @@
 eDrive.DSP
 ==========
 
-DSP library fro .NET platforms
+DSP library for .NET platforms
